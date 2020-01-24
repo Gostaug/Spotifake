@@ -50,6 +50,7 @@
                     <tr :key="track.id" v-for="track in album.tracks.items">
                       <td class="text-left">
                         <v-btn
+                          v-if="track.preview_url"
                           icon
                         >
                           <v-icon
