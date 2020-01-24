@@ -1,12 +1,12 @@
 # Spotifake
 
 ### Features
-```
+
 - Search for an artist with suggestions.
 - Display all artist's albums and all album's tracks.
 - Listen to any track preview with an html5 audio player.
 - All reaserched artist are listed under the searchbar for quick acess.
-```
+
 
 ## Project setup
 ```
