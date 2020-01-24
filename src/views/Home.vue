@@ -32,7 +32,7 @@
                 <v-col cols="2">
                   <v-img :src="album.images[0].url" max-width="100px"></v-img>
                 </v-col>
-                <v-col cols="10">
+                <v-col cols="8">
                   <h3>{{album.name}}</h3>
                 </v-col>
               </v-card-title>
