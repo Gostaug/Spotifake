@@ -10,7 +10,7 @@
   "dependencies": {
     "@mdi/font": "^4.8.95",
     "@types/request": "^2.48.4",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "pretty-ms": "^5.1.0",
     "register-service-worker": "^1.6.2",
